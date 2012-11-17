@@ -1,5 +1,4 @@
-Eurechat simple chat
-====================
+#Eurechat simple chat
 
 Eurechat v1 is a client server chat application using blocking IO Sockets and curses graphical library.
 
